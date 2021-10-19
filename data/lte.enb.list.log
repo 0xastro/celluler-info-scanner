@@ -1,0 +1,17 @@
+;The name is either the name of the station found in the database or in the case no station was found in the data base "eNodeB <eNodeBID/CellID> <PhyCellID>
+;Postion of 0.0/0.0 means unknown
+;Only Stations with a valid Cell ID are exported. 
+;
+;Name;Longitude;Latitude;PosErrorDirection;PosErrorLambda1;PosErrorLambda2;IsDirected;Direction;ConfInt;Power;MaxPowerUsedForTowerEstimationbyPE;TowerID;MCC;MNC;TAC;CellIdentity;EARFCN;PhyCellID
+eNodeB - ID:4041/3 PCI:437;0;0;0;0;0;0;0;0;30;-999.0;;270;1;3002;1034499;1800;437
+eNodeB - ID:4041/33 PCI:437;0;0;0;0;0;0;0;0;30;-999.0;;270;1;3002;1034529;101;437
+eNodeB - ID:4041/23 PCI:437;0;0;0;0;0;0;0;0;30;-999.0;;270;1;3002;1034519;2850;437
+eNodeB - ID:4041/13 PCI:437;0;0;0;0;0;0;0;0;30;-999.0;;270;1;3002;1034509;6200;437
+eNodeB - ID:4363/182 PCI:337;0;0;0;0;0;0;0;0;30;-999.0;;270;77;1;1117110;1596;337
+eNodeB - ID:4363/183 PCI:338;0;0;0;0;0;0;0;0;30;-999.0;;270;77;1;1117111;1596;338
+eNodeB - ID:4363/103 PCI:77;0;0;0;0;0;0;0;0;30;-999.0;;270;77;1;1117031;6300;77
+eNodeB - ID:4403/7 PCI:486;0;0;0;0;0;0;0;0;30;-999.0;;270;99;12;1127175;6400;486
+eNodeB - ID:4027/2 PCI:107;0;0;0;0;0;0;0;0;30;-999.0;;270;99;12;1030914;1350;107
+eNodeB - ID:4029/181 PCI:336;0;0;0;0;0;0;0;0;30;-999.0;;270;99;12;1031605;1350;336
+eNodeB - ID:4029/182 PCI:338;0;0;0;0;0;0;0;0;30;-999.0;;270;99;12;1031606;1350;338
+eNodeB - ID:4405/2 PCI:38;0;0;0;0;0;0;0;0;30;-999.0;;270;99;12;1127682;1350;38
