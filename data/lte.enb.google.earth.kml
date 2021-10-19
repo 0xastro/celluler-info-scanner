@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document><Style id="ellipseYellow">
+                                <LineStyle>
+                                <width>1.5</width>
+                                <color>7f00ffff</color>
+                                </LineStyle>
+                                <PolyStyle>
+                                <color>0000ffff</color>
+                                </PolyStyle>
+                                </Style>
+                                <Style id="ellipseGreen">
+                                <LineStyle>
+                                <width>1.5</width>
+                                <color>7f00ff00</color>
+                                </LineStyle>
+                                <PolyStyle>
+                                <color>0000ff00</color>
+                                </PolyStyle>
+                                </Style>
+                                <Style id="ellipseRed">
+                                <LineStyle>
+                                <width>1.5</width>
+                                <color>7f0000ff</color>
+                                </LineStyle>
+                                <PolyStyle>
+                                <color>000000ff</color>
+                                </PolyStyle>
+                                </Style>
+                                <Style id="bts_LTE">
+                                 <IconStyle>
+                                 <color>ccffe100</color>
+                                 <scale>1.2</scale>
+                                 <Icon>
+                                 <href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+                                 </Icon>
+                                 </IconStyle>
+                                 <LabelStyle>
+                                 <color>ccffe100</color>
+                                 </LabelStyle>
+                                 <ListStyle>
+                                 </ListStyle>
+                                 </Style>
+<name>LTE Base Stations</name>
+                                    <open>1</open>
+<Folder>
+                                  <name>Base Stations - By Power</name>
+                                  <open>1</open>
+
+</Folder>
+<Folder>
+                                  <name>Error Ellipse - By Power</name>
+                                  <open>1</open>
+
+</Folder>
+<Folder>
+                                  <name>Base Stations - In Progress</name>
+                                  <open>1</open>
+
+</Folder>
+<Folder>
+                                  <name>Error Ellipse - In Progress</name>
+                                  <open>1</open>
+
+</Folder>
+<Folder>
+                                  <name>Base Stations - Finished</name>
+                                  <open>1</open>
+
+</Folder>
+<Folder>
+                                  <name>Error Ellipse - Finished</name>
+                                  <open>1</open>
+
+</Folder>
+</Document>
+</kml>
